@@ -1,0 +1,7 @@
+This is from dev2
+<<<<<<< HEAD
+This is second line from dev2
+=======
+
+This is second line from dev1
+>>>>>>> 12caeaa9eaea91fe4e9dd45ece250ff8351dd09d
